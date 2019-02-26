@@ -1,0 +1,1 @@
+{"name":"__cargo_web_snippet_6512d0b35ebe590f7e7fdb07d7a43f6d085837a0","code":"$0 = Module.STDWEB_PRIVATE.to_js($0);var handle=($0);cancelAnimationFrame(handle.timeout_id);handle.callback.drop();","arg_count":1}
